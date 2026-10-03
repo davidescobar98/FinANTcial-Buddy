@@ -1,4 +1,4 @@
-<p align="center"><img src="icon.png" alt="" width="112"></p>
+<p align="center"><img src="logo.png" alt="FinANTcial Buddy" width="300"></p>
 
 <h1 align="center">FinANTcial Buddy</h1>
 
