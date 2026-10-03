@@ -3,7 +3,7 @@
 <h1 align="center">Finantcial Buddy</h1>
 
 <p align="center">Tu compañero de finanzas personales a partir de los extractos de tu banco, <b>solo en tu ordenador</b>.<br>
-<i>Antes se llamaba «Hormiga».</i></p>
+</p>
 
 <p align="center">
   <a href="https://github.com/davidescobar98/FinANTcial-Buddy/releases/latest"><b>⬇️ Descargar Finantcial Buddy para Windows</b></a>
