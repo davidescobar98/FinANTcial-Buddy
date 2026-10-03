@@ -1,26 +1,26 @@
-<p align="center"><img src="logo.png" alt="FinANTcial Buddy" width="300"></p>
+<p align="center"><img src="logo.png" alt="Finantcial Buddy" width="300"></p>
 
-<h1 align="center">FinANTcial Buddy</h1>
+<h1 align="center">Finantcial Buddy</h1>
 
 <p align="center">Tu compañero de finanzas personales a partir de los extractos de tu banco, <b>solo en tu ordenador</b>.<br>
 <i>Antes se llamaba «Hormiga».</i></p>
 
 <p align="center">
-  <a href="https://github.com/davidescobar98/FinANTcial-Buddy/releases/latest"><b>⬇️ Descargar FinANTcial Buddy para Windows</b></a>
+  <a href="https://github.com/davidescobar98/FinANTcial-Buddy/releases/latest"><b>⬇️ Descargar Finantcial Buddy para Windows</b></a>
 </p>
 
 ## Cómo instalarla
 
 1. Entra en **[la última versión](https://github.com/davidescobar98/FinANTcial-Buddy/releases/latest)** y, en «Assets»,
-   descarga **`FinANTcial-Buddy-Setup-<versión>.exe`**.
+   descarga **`Finantcial-Buddy-Setup-<versión>.exe`**.
 2. Ábrelo. Windows puede avisar de que la app no está firmada («Windows protegió su PC»): pulsa
    **«Más información» → «Ejecutar de todas formas»**.
 3. Listo. **Se actualiza sola**: no tendrás que volver a descargarla.
 
-¿Prefieres no instalar nada? Descarga **`FinANTcial-Buddy-<versión>-portable.exe`** y ábrelo directamente (esta versión
+¿Prefieres no instalar nada? Descarga **`Finantcial-Buddy-<versión>-portable.exe`** y ábrelo directamente (esta versión
 no se actualiza sola).
 
-**¿Ya tenías Hormiga instalada?** No tienes que hacer nada: se actualiza sola a FinANTcial Buddy y conservas tus datos,
+**¿Ya tenías Hormiga instalada?** No tienes que hacer nada: se actualiza sola a Finantcial Buddy y conservas tus datos,
 tu conexión con Gmail y tus accesos directos.
 
 ## Qué hace
@@ -30,10 +30,11 @@ tu conexión con Gmail y tus accesos directos.
   importe. También puede buscar tus extractos en Gmail (opcional, solo lectura).
 - Clasifica tus gastos, detecta suscripciones y recibos, y te dice cuánto ahorras de verdad.
 - **Previsión**: cómo evolucionará tu saldo, cómo acabarás el mes y dónde puedes recortar.
-- **Pregunta a Buddy**: «¿cuánto gasté en restaurantes en mayo?», «¿cómo puedo ahorrar más?».
+- **Pregunta a Antdy**: «¿cuánto gasté en restaurantes en mayo?», «¿cómo puedo ahorrar más?».
 - Presupuestos, metas de ahorro, patrimonio, hipoteca y bolsa.
 - **Perfiles**: varias personas en el mismo ordenador, cada una con sus datos por separado.
 - Modo claro y oscuro con un clic.
+- Detecta lo que mueves a tu cuenta de ahorro para que no cuente como gasto.
 
 ## Tu privacidad
 
@@ -48,4 +49,4 @@ números»** la app revisa tus datos y te explica cualquier diferencia.
 
 ---
 
-Uso personal. FinANTcial Buddy no es un asesor financiero: las cifras y señales son informativas.
+Uso personal. Finantcial Buddy no es un asesor financiero: las cifras y señales son informativas.
